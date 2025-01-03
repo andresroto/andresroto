@@ -6,7 +6,7 @@ Backend developer
 
 I'm a dedicated software developer with a strong passion for continuous learning and innovation. My expertise spans both back-end and front-end development, with a particular affinity for working with technologies such as PHP, JS (Back-end/Front-end) and Golang. I thrive on tackling new challenges and am driven by the desire to create applications that simplify and enhance people's lives.
 
-* 🌍  I'm based in Malta
+<!-- * 🌍  I'm based in Malta -->
 * 🖥️  See my portfolio at https://andresrobayo.netlify.app
 * ✉️  You can contact me at [afeliperobayo@gmail.com](mailto:afeliperobayo@gmail.com)
 * 🚀  I'm currently working on [Digital nomad app](http://nomads.wacohub.com/en/home/)
