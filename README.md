@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andres Robayo
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Andres Robayo
 =====================================================================================================================================
 
-Backend developer
+Software developer
 -----------------
 
-Hi there, I’m Andres Robayo, a passionate and dedicated software developer with a strong drive for continuous learning and innovation. My expertise encompass both back-end and front-end development, with a particular focus on programming languages like PHP, JavaScript, Python, and Go. I enjoy overcoming challenging problems and find fulfillment in designing applications that optimize processes and enrich users’ lives. My aim is to create innovative, user-centered solutions that deliver meaningful and lasting value.
+A passionate and dedicated software developer with a strong drive for continuous learning and innovation. My expertise encompass both back-end and front-end development, with a particular focus on programming languages like PHP, JavaScript, Python, and Go. I enjoy overcoming challenging problems and find fulfillment in designing applications that optimize processes and enrich users’ lives. My aim is to create innovative, user-centered solutions that deliver meaningful and lasting value.
 
 <!-- * 🌍  I'm based in Malta -->
 * 🖥️  See my portfolio at https://andresrobayo.netlify.app
